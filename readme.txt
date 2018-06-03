@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free sotfware.
+Git is a diatribured bersion control system.
+Git is free sotfware distributed under the GPL.
