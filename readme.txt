@@ -3,8 +3,5 @@ Git is free sotfware distributed under the GPL.
 And you are beautiful girl.
 This line is an append line.
 Git tracks changes.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> featurel
+
